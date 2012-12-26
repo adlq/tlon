@@ -1,4 +1,4 @@
-TLON
+TLÖN
 ====
 
 Description
@@ -52,6 +52,6 @@ time a page loads is not scalable.
 Origin
 ------
 
-The name, Tlön, is taken from *Jorge Luis Borges*' *Fictions*, 
+The name, Tlön, is taken from *Jorge Luis Borges*' **Fictions**, 
 depicting an imaginary and beautiful world where nouns and materialism 
 are banned, and verbs are king. 
